@@ -1,0 +1,13 @@
+.title {
+  font-size: 20px;
+}
+
+.red {
+  color: red;
+}
+
+.responsiveImg{
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+}
